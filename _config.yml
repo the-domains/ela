@@ -1,0 +1,14 @@
+layout_spectrum: 0.6816895985975862
+typography_spectrum: 0.8459871646482497
+color:
+  brandStrength: 0.1669691016431898
+  lightness: 0.5516651012003422
+  saturation: 0.3134811755735427
+  rhythmicContrast: 0.13418697542510927
+  brandColors:
+    - '#88A825'
+    - '#35203B'
+    - '#911146'
+    - '#CF4A30'
+    - '#ED8C2B'
+name: ELA
